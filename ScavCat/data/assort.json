@@ -1,0 +1,1520 @@
+﻿{
+    "items":  [
+                  {
+                      "_comment":  "A spacious case for storing ballistic plates.",
+                      "_id":  "67600929bd0a0549d70993f6",
+                      "_tpl":  "67600929bd0a0549d70993f6",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A storage case for weapons, ammunition, and weapon parts.",
+                      "_id":  "59fb023c86f7746d0d4b423c",
+                      "_tpl":  "59fb023c86f7746d0d4b423c",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A secret TerraGroup invention that has fallen into the hands of the cultists.",
+                      "_id":  "676008db84e242067d0dc4c9",
+                      "_tpl":  "676008db84e242067d0dc4c9",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A unique secure container available only for Tarkov Arena champions.",
+                      "_id":  "664a55d84a90fc2c8a6305c9",
+                      "_tpl":  "664a55d84a90fc2c8a6305c9",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "This case is the ultimate solution to the problem of hoarding various keys in the stash, helping to store them in one place.",
+                      "_id":  "67d3ed3271c17ff82e0a5b0b",
+                      "_tpl":  "67d3ed3271c17ff82e0a5b0b",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "One of TerraGroups latest inventions in secure container technology - the Epsilon secured container.",
+                      "_id":  "59db794186f77448bc595262",
+                      "_tpl":  "59db794186f77448bc595262",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A storage case for weapons, ammunition, and weapon parts. A special edition with an increased storage volume to accommodate larger and longer weapons.",
+                      "_id":  "5b6d9ce188a4501afc1b2b25",
+                      "_tpl":  "5b6d9ce188a4501afc1b2b25",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "The TARBank armored money storage case.",
+                      "_id":  "59fb016586f7746d0d4b423a",
+                      "_tpl":  "59fb016586f7746d0d4b423a",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A unique secure container used only by veteran PMCs formerly deployed in Tarkov.",
+                      "_id":  "5857a8bc2459772bad15db29",
+                      "_tpl":  "5857a8bc2459772bad15db29",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A storage case for various items.",
+                      "_id":  "59fb042886f7746c5005a7b2",
+                      "_tpl":  "59fb042886f7746c5005a7b2",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A small case for pistol and ammunition storage.",
+                      "_id":  "567143bf4bdc2d1a0f8b4567",
+                      "_tpl":  "567143bf4bdc2d1a0f8b4567",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A case for compact storage of those strange souvenirs scattered throughout Tarkov, perfect for collectors.",
+                      "_id":  "66bc98a01a47be227a5e956e",
+                      "_tpl":  "66bc98a01a47be227a5e956e",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A special small case for storing plastic cards, including key cards.",
+                      "_id":  "619cbf9e0a7c3a1a2731940a",
+                      "_tpl":  "619cbf9e0a7c3a1a2731940a",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A secret TerraGroup invention - the Kappa secured container.",
+                      "_id":  "5c093ca986f7740a1867ab12",
+                      "_tpl":  "5c093ca986f7740a1867ab12",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A leather field case for document and map storage.",
+                      "_id":  "590c60fc86f77412b13fddcf",
+                      "_tpl":  "590c60fc86f77412b13fddcf",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A wheeled weapon magazine storage case.",
+                      "_id":  "5c127c4486f7745625356c13",
+                      "_tpl":  "5c127c4486f7745625356c13",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "The T H I C C advanced storage case with increased storage volume for various items.",
+                      "_id":  "5c0a840b86f7742ffa4f2482",
+                      "_tpl":  "5c0a840b86f7742ffa4f2482",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A medium-sized secure container used by PMCs formerly deployed in Tarkov.",
+                      "_id":  "5857a8b324597729ab0a0e7d",
+                      "_tpl":  "5857a8b324597729ab0a0e7d",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A small soft organizational pouch for storing various small items such as paper money, coins, metal keys, as well as keycards and dogtags.",
+                      "_id":  "5d235bb686f77443f4331278",
+                      "_tpl":  "5d235bb686f77443f4331278",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A case for storing injectors, stimulants, and other specialized medications.",
+                      "_id":  "619cbf7d23893217ec30b689",
+                      "_tpl":  "619cbf7d23893217ec30b689",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "The \"WillerZ\" leather wallet. Same as any simple wallet, but fancier.",
+                      "_id":  "60b0f6c058e0b0481a09ad11",
+                      "_tpl":  "60b0f6c058e0b0481a09ad11",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A storage container for medical items.",
+                      "_id":  "5aafbcd986f7745e590fff23",
+                      "_tpl":  "5aafbcd986f7745e590fff23",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "The Kiba Arms International ammunition storage case.",
+                      "_id":  "5aafbde786f774389d0cbc0f",
+                      "_tpl":  "5aafbde786f774389d0cbc0f",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A large storage case for all sorts of different items and goods that you may or may not need for later barters.",
+                      "_id":  "5b7c710788a4506dec015957",
+                      "_tpl":  "5b7c710788a4506dec015957",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A durable and convenient waist pouch for a variety of things you would want to keep close.",
+                      "_id":  "5732ee6a24597719ae0c0281",
+                      "_tpl":  "5732ee6a24597719ae0c0281",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A key ring with a four-leaf clover keychain.",
+                      "_id":  "62a09d3bcf4a99369e262447",
+                      "_tpl":  "62a09d3bcf4a99369e262447",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A small and handy case for dogtag storage.",
+                      "_id":  "5c093e3486f77430cb02e593",
+                      "_tpl":  "5c093e3486f77430cb02e593",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "Greetings from Mr. Kerman.",
+                      "_id":  "6638a5474e92f038531e210e",
+                      "_tpl":  "6638a5474e92f038531e210e",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "Place Comment HERE",
+                      "_id":  "64f6f4c5911bcdfe8b03b0dc",
+                      "_tpl":  "64f6f4c5911bcdfe8b03b0dc",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A simple wallet for storing money.",
+                      "_id":  "5783c43d2459774bbe137486",
+                      "_tpl":  "5783c43d2459774bbe137486",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A special tool for storing all your keys in one convenient place.",
+                      "_id":  "59fafd4b86f7745ca07e1232",
+                      "_tpl":  "59fafd4b86f7745ca07e1232",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "Special thermal-electric bag for food storage. The Mr. Holodilnick bag chills anything, even the most unchillable.",
+                      "_id":  "5c093db286f7740a1b2617e3",
+                      "_tpl":  "5c093db286f7740a1b2617e3",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A small secure container used by PMCs formerly deployed in Tarkov.",
+                      "_id":  "544a11ac4bdc2d470e8b456a",
+                      "_tpl":  "544a11ac4bdc2d470e8b456a",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A unique secure container used only by veteran PMCs formerly deployed in Tarkov. Has a mysterious mark on the side.",
+                      "_id":  "665ee77ccf2d642e98220bca",
+                      "_tpl":  "665ee77ccf2d642e98220bca",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                   {
+                      "_comment":  "The Tactical Wasteland Gladius sword, manufactured by APOK. Arena champion's prime melee weapon. Rumors are that this is the exact blade that the gladiator Voron used to fight with. Or at least it looks like one.",
+                      "_id":  "664a5428d5e33a713b622379",
+                      "_tpl":  "664a5428d5e33a713b622379",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A simple poster of a girl. Not perfect condition, but its doubtful you could find a better one.",
+                      "_id":  "6759e7a44ff23436160d7ff5",
+                      "_tpl":  "6759e7a44ff23436160d7ff5",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A poster from the Arena. It depicts the at the time legendary gladiators. So many Scavs came to see them fight that there werent enough seats in the stands. Nowadays, nobody even remembers who won.",
+                      "_id":  "675a046b8f547d6cae01922e",
+                      "_tpl":  "675a046b8f547d6cae01922e",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A poster of the avant-garde composer Alex Green. His music is multifaceted and unique, so much so that the worlds leading media wrote about him. People used to pay huge sums of money to visit his concerts.",
+                      "_id":  "675a06b84ff23436160d802f",
+                      "_tpl":  "675a06b84ff23436160d802f",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "The thriller Last Flight did not win any awards, but the box office collected a decent amount of cash. The director of the movie, Yulin Kontorsky, must have been overjoyed.",
+                      "_id":  "675a1a244ff23436160d8033",
+                      "_tpl":  "675a1a244ff23436160d8033",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A poster for the movie Hell or Highwater. The big screens never ran it, but Tarkov still has enough of these posters left to use as decoration.",
+                      "_id":  "675a125caf26c56ee109072a",
+                      "_tpl":  "675a125caf26c56ee109072a",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "We all need a loyal friend. Even if just in the arms of a 2d girl.",
+                      "_id":  "6841b1ff51bf8645f7067bca",
+                      "_tpl":  "6841b1ff51bf8645f7067bca",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "Theres no escape from the Minotaurs grasp. The only thing left to do is to take the last deep breath and hold on as long as possible.",
+                      "_id":  "679b944d597ba2ed120c3d3c",
+                      "_tpl":  "679b944d597ba2ed120c3d3c",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A poster with Killa and Tagila as anime girls. If only they were real.",
+                      "_id":  "675a04fdb8913ff13e0496bb",
+                      "_tpl":  "675a04fdb8913ff13e0496bb",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A rare I Bear Loot poster. Very few BEAR operators can get one of these.",
+                      "_id":  "6759e07e4ff23436160d7fed",
+                      "_tpl":  "6759e07e4ff23436160d7fed",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A blatant advertisement for making money in the Arena. Many Tarkov citizens were tempted by the quick money, despite risking death.",
+                      "_id":  "675a0288c3102563bd01c9c3",
+                      "_tpl":  "675a0288c3102563bd01c9c3",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "The girl on the poster is definitely hinting at something. But youre stronger than her urging.",
+                      "_id":  "6841b179322db20d190b4b99",
+                      "_tpl":  "6841b179322db20d190b4b99",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A poster of the movie The Ambush. Although, in the end, the audience didnt see anything other than posters.",
+                      "_id":  "675a202b6aaafea7210915fd",
+                      "_tpl":  "675a202b6aaafea7210915fd",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "It seems unlikely that similar pieces of equipment are available in present-day Tarkov. Judging by the condition of the poster, it was obviously made during peacetime.",
+                      "_id":  "67f924b1b07831a6ef0ce317",
+                      "_tpl":  "67f924b1b07831a6ef0ce317",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "An unknown artist tried to envision what a highway will look like in 2028. What is it: a flight of fancy or a subtle warning?",
+                      "_id":  "675a0fbbb98bf391510bafcd",
+                      "_tpl":  "675a0fbbb98bf391510bafcd",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "The poster is not wordy, but straightforward. Itll look great at the front door. Or the exit door?",
+                      "_id":  "675a1e502eac6c76e104ea1e",
+                      "_tpl":  "675a1e502eac6c76e104ea1e",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A poster that has truly become legendary. Only a few people have one of these.",
+                      "_id":  "6759e91d8367ee2b0c0f4b94",
+                      "_tpl":  "6759e91d8367ee2b0c0f4b94",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A rare poster of a girl. It is said that someone pawned five gold teeth for one of these. Who they used to belong to is not stated.",
+                      "_id":  "6759e8b1c3102563bd01c985",
+                      "_tpl":  "6759e8b1c3102563bd01c985",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A rare poster of the movie which was never released. Director N. Tankovsky said in an interview that the story would be about a young security guard who began to notice mystical strange things going on in Tarkov.",
+                      "_id":  "675a081c1474133a0d0bb214",
+                      "_tpl":  "675a081c1474133a0d0bb214",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A simple poster of a girl. So simple that every man in Tarkov had probably seen it at least once.",
+                      "_id":  "6759e6c39422e1708e0e9b81",
+                      "_tpl":  "6759e6c39422e1708e0e9b81",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "The studio Bubble Step did a pretty good job on their debut horror film Spooky Movie. Too bad they didnt have enough imagination for the title.",
+                      "_id":  "675a1af21474133a0d0bb216",
+                      "_tpl":  "675a1af21474133a0d0bb216",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "This poster shows a Killa fangirl. Despite the scratches on the paper and folding marks, you can tell that the previous owner treasured this poster very much.",
+                      "_id":  "67f924a9154a04c33b0a3c57",
+                      "_tpl":  "67f924a9154a04c33b0a3c57",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "The movie Vasily from the legendary director Nikita Bayanov. It held the box office lead for 28 weeks, owing in no small part to its deep and unusual plot.",
+                      "_id":  "675a1c129422e1708e0e9baa",
+                      "_tpl":  "675a1c129422e1708e0e9baa",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A regular poster of yet another movie from the director A. Bambetov.",
+                      "_id":  "675a0d2d57dd12f0260c4a31",
+                      "_tpl":  "675a0d2d57dd12f0260c4a31",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "The movie Sharpshooter never came out. A real shame. The posters kinda stylish.",
+                      "_id":  "675a1f5c1474133a0d0bb218",
+                      "_tpl":  "675a1f5c1474133a0d0bb218",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A poster of the unreleased movie USEC. It seems that this is how they wanted to fill the ranks of PMC operatives.",
+                      "_id":  "675a213ff905bde03d0f8255",
+                      "_tpl":  "675a213ff905bde03d0f8255",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "Women are not usually allowed to join BEAR or USEC. But even though the poster is damaged and the paper is sticky in places, it is obvious that this photo is authentic.",
+                      "_id":  "67f924adb45d94a2600a8cc8",
+                      "_tpl":  "67f924adb45d94a2600a8cc8",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "This poster shows the Minotaur being slain by a warrior from the Labyrinth. Very few people have witnessed such a scene with their own eyes.",
+                      "_id":  "679b9477708cfcb2060b9ade",
+                      "_tpl":  "679b9477708cfcb2060b9ade",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "Looking at this poster, you realize the sheer terror that the Minotaurs victims felt before they died.",
+                      "_id":  "679b946f90622daf9708da6d",
+                      "_tpl":  "679b946f90622daf9708da6d",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A simple poster of a girl. A little weathered in some spots, but still pleasing to the eye.",
+                      "_id":  "6759e61067c8eb5cd10352f1",
+                      "_tpl":  "6759e61067c8eb5cd10352f1",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A poster for the unreleased movie The Hunted. Something about this style reminds of... A sequel to another unreleased project?",
+                      "_id":  "675a20c83fb2de89670113b4",
+                      "_tpl":  "675a20c83fb2de89670113b4",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A simple poster of a girl. Perfect for a rest area.",
+                      "_id":  "6759e19a8367ee2b0c0f4b92",
+                      "_tpl":  "6759e19a8367ee2b0c0f4b92",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A rare What You Seek poster. Only the most hardcore USEC operators can get it.",
+                      "_id":  "6759bb94b8913ff13e049669",
+                      "_tpl":  "6759bb94b8913ff13e049669",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A poster advertising making money in the Arena. Sure, you can make money, but you can also die.",
+                      "_id":  "675a04c01474133a0d0bb212",
+                      "_tpl":  "675a04c01474133a0d0bb212",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A regular poster for the unreleased movie Den of Wolves. Nothing special, just a wolf.",
+                      "_id":  "675a0eacf905bde03d0f8253",
+                      "_tpl":  "675a0eacf905bde03d0f8253",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "This poster embodies the nature of the Minotaur. Brutality, thirst for murder, and blood. Rivers of blood.",
+                      "_id":  "679b94734e9ca6b3d80586a7",
+                      "_tpl":  "679b94734e9ca6b3d80586a7",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A poster for the action thriller Gunfight from the studio Battle Star. Years ago, cinemas used to have massive waiting lines for movie. Now all thats left are the posters. Its a nice reminder of the old days.",
+                      "_id":  "675a191f67c8eb5cd1035305",
+                      "_tpl":  "675a191f67c8eb5cd1035305",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "A large case for storing various hand grenades.",
+                      "_id":  "5e2af55f86f7746d4159f07c",
+                      "_tpl":  "5e2af55f86f7746d4159f07c",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  500,
+                                  "UnlimitedCount":  true
+                              }
+                  }
+              ],
+    "barter_scheme":  {
+                          "67600929bd0a0549d70993f6":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A spacious case for storing ballistic plates.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  300000
+                                                               }
+                                                           ]
+                                                       ],
+                          "59fb023c86f7746d0d4b423c":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A storage case for weapons, ammunition, and weapon parts.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  400000
+                                                               }
+                                                           ]
+                                                       ],
+                          "676008db84e242067d0dc4c9":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A secret TerraGroup invention that has fallen into the hands of the cultists.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  750000
+                                                               }
+                                                           ]
+                                                       ],
+                          "664a55d84a90fc2c8a6305c9":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A unique secure container available only for Tarkov Arena champions.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  500000
+                                                               }
+                                                           ]
+                                                       ],
+                          "67d3ed3271c17ff82e0a5b0b":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "This case is the ultimate solution to the problem of hoarding various keys in the stash, helping to store them in one place.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  50000
+                                                               }
+                                                           ]
+                                                       ],
+                          "59db794186f77448bc595262":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "One of TerraGroups latest inventions in secure container technology - the Epsilon secured container.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  200000
+                                                               }
+                                                           ]
+                                                       ],
+                          "5b6d9ce188a4501afc1b2b25":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A storage case for weapons, ammunition, and weapon parts. A special edition with an increased storage volume to accommodate larger and longer weapons.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  250000
+                                                               }
+                                                           ]
+                                                       ],
+                          "59fb016586f7746d0d4b423a":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "The TARBank armored money storage case.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  75000
+                                                               }
+                                                           ]
+                                                       ],
+                          "5857a8bc2459772bad15db29":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A unique secure container used only by veteran PMCs formerly deployed in Tarkov.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  250000
+                                                               }
+                                                           ]
+                                                       ],
+                          "59fb042886f7746c5005a7b2":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A storage case for various items.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  350000
+                                                               }
+                                                           ]
+                                                       ],
+                          "567143bf4bdc2d1a0f8b4567":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A small case for pistol and ammunition storage.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  30000
+                                                               }
+                                                           ]
+                                                       ],
+                          "66bc98a01a47be227a5e956e":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A case for compact storage of those strange souvenirs scattered throughout Tarkov, perfect for collectors.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  95000
+                                                               }
+                                                           ]
+                                                       ],
+                          "619cbf9e0a7c3a1a2731940a":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A special small case for storing plastic cards, including key cards.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  75000
+                                                               }
+                                                           ]
+                                                       ],
+                          "5c093ca986f7740a1867ab12":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A secret TerraGroup invention - the Kappa secured container.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  750000
+                                                               }
+                                                           ]
+                                                       ],
+                          "590c60fc86f77412b13fddcf":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A leather field case for document and map storage.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  75000
+                                                               }
+                                                           ]
+                                                       ],
+                          "5c127c4486f7745625356c13":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A wheeled weapon magazine storage case.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  75000
+                                                               }
+                                                           ]
+                                                       ],
+                          "5c0a840b86f7742ffa4f2482":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "The T H I C C advanced storage case with increased storage volume for various items.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  400000
+                                                               }
+                                                           ]
+                                                       ],
+                          "5857a8b324597729ab0a0e7d":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A medium-sized secure container used by PMCs formerly deployed in Tarkov.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  250000
+                                                               }
+                                                           ]
+                                                       ],
+                          "5d235bb686f77443f4331278":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A small soft organizational pouch for storing various small items such as paper money, coins, metal keys, as well as keycards and dogtags.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  400000
+                                                               }
+                                                           ]
+                                                       ],
+                          "619cbf7d23893217ec30b689":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A case for storing injectors, stimulants, and other specialized medications.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  90000
+                                                               }
+                                                           ]
+                                                       ],
+                          "60b0f6c058e0b0481a09ad11":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "The WillerZ leather wallet. Same as any simple wallet, but fancier.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  5000
+                                                               }
+                                                           ]
+                                                       ],
+                          "5aafbcd986f7745e590fff23":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A storage container for medical items.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  90000
+                                                               }
+                                                           ]
+                                                       ],
+                          "5aafbde786f774389d0cbc0f":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "The Kiba Arms International ammunition storage case.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  45000
+                                                               }
+                                                           ]
+                                                       ],
+                          "5b7c710788a4506dec015957":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A large storage case for all sorts of different items and goods that you may or may not need for later barters.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  125000
+                                                               }
+                                                           ]
+                                                       ],
+                          "5732ee6a24597719ae0c0281":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A durable and convenient waist pouch for a variety of things you would want to keep close.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  10000
+                                                               }
+                                                           ]
+                                                       ],
+                          "62a09d3bcf4a99369e262447":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A key ring with a four-leaf clover keychain.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  25000
+                                                               }
+                                                           ]
+                                                       ],
+                          "5c093e3486f77430cb02e593":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A small and handy case for dogtag storage.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  50000
+                                                               }
+                                                           ]
+                                                       ],
+                          "6638a5474e92f038531e210e":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "Greetings from Mr. Kerman.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  10000
+                                                               }
+                                                           ]
+                                                       ],
+                          "64f6f4c5911bcdfe8b03b0dc":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "Tournament secured container",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  500000
+                                                               }
+                                                           ]
+                                                       ],
+                          "5783c43d2459774bbe137486":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A simple wallet for storing money.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  10000
+                                                               }
+                                                           ]
+                                                       ],
+                          "59fafd4b86f7745ca07e1232":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A special tool for storing all your keys in one convenient place.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  150000
+                                                               }
+                                                           ]
+                                                       ],
+                          "5c093db286f7740a1b2617e3":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "Special thermal-electric bag for food storage. The Mr. Holodilnick bag chills anything, even the most unchillable.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  200000
+                                                               }
+                                                           ]
+                                                       ],
+                          "544a11ac4bdc2d470e8b456a":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A small secure container used by PMCs formerly deployed in Tarkov.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  150000
+                                                               }
+                                                           ]
+                                                       ],
+                          "665ee77ccf2d642e98220bca":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A unique secure container used only by veteran PMCs formerly deployed in Tarkov. Has a mysterious mark on the side.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  400000
+                                                               }
+                                                           ]
+                                                       ],
+                                                       "6759e7a44ff23436160d7ff5":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A simple poster of a girl. Not perfect condition, but its doubtful you could find a better one.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "675a046b8f547d6cae01922e":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A poster from the Arena. It depicts the at the time legendary gladiators. So many Scavs came to see them fight that there werent enough seats in the stands. Nowadays, nobody even remembers who won.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "675a06b84ff23436160d802f":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A poster of the avant-garde composer Alex Green. His music is multifaceted and unique, so much so that the worlds leading media wrote about him. People used to pay huge sums of money to visit his concerts.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "675a1a244ff23436160d8033":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "The thriller Last Flight did not win any awards, but the box office collected a decent amount of cash. The director of the movie, Yulin Kontorsky, must have been overjoyed.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "675a125caf26c56ee109072a":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A poster for the movie Hell or Highwater. The big screens never ran it, but Tarkov still has enough of these posters left to use as decoration.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "6841b1ff51bf8645f7067bca":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "We all need a loyal friend. Even if just in the arms of a 2d girl.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "679b944d597ba2ed120c3d3c":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "Theres no escape from the Minotaurs grasp. The only thing left to do is to take the last deep breath and hold on as long as possible.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "675a04fdb8913ff13e0496bb":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A poster with Killa and Tagila as anime girls. If only they were real.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "6759e07e4ff23436160d7fed":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A rare I Bear Loot poster. Very few BEAR operators can get one of these.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "675a0288c3102563bd01c9c3":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A blatant advertisement for making money in the Arena. Many Tarkov citizens were tempted by the quick money, despite risking death.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "6841b179322db20d190b4b99":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "The girl on the poster is definitely hinting at something. But youre stronger than her urging.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "675a202b6aaafea7210915fd":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A poster of the movie The Ambush. Although, in the end, the audience didnt see anything other than posters.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "67f924b1b07831a6ef0ce317":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "It seems unlikely that similar pieces of equipment are available in present-day Tarkov. Judging by the condition of the poster, it was obviously made during peacetime.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "675a0fbbb98bf391510bafcd":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "An unknown artist tried to envision what a highway will look like in 2028. What is it: a flight of fancy or a subtle warning?",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "675a1e502eac6c76e104ea1e":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "The poster is not wordy, but straightforward. Itll look great at the front door. Or the exit door?",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "6759e91d8367ee2b0c0f4b94":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A poster that has truly become legendary. Only a few people have one of these.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "6759e8b1c3102563bd01c985":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A rare poster of a girl. It is said that someone pawned five gold teeth for one of these. Who they used to belong to is not stated.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "675a081c1474133a0d0bb214":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A rare poster of the movie which was never released. Director N. Tankovsky said in an interview that the story would be about a young security guard who began to notice mystical strange things going on in Tarkov.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "6759e6c39422e1708e0e9b81":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A simple poster of a girl. So simple that every man in Tarkov had probably seen it at least once.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "675a1af21474133a0d0bb216":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "The studio Bubble Step did a pretty good job on their debut horror film Spooky Movie. Too bad they didnt have enough imagination for the title.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "67f924a9154a04c33b0a3c57":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "This poster shows a Killa fangirl. Despite the scratches on the paper and folding marks, you can tell that the previous owner treasured this poster very much.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "675a1c129422e1708e0e9baa":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "The movie Vasily from the legendary director Nikita Bayanov. It held the box office lead for 28 weeks, owing in no small part to its deep and unusual plot.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "675a0d2d57dd12f0260c4a31":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A regular poster of yet another movie from the director A. Bambetov.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "675a1f5c1474133a0d0bb218":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "The movie Sharpshooter never came out. A real shame. The posters kinda stylish.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "675a213ff905bde03d0f8255":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A poster of the unreleased movie USEC. It seems that this is how they wanted to fill the ranks of PMC operatives.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "67f924adb45d94a2600a8cc8":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "Women are not usually allowed to join BEAR or USEC. But even though the poster is damaged and the paper is sticky in places, it is obvious that this photo is authentic.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "679b9477708cfcb2060b9ade":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "This poster shows the Minotaur being slain by a warrior from the Labyrinth. Very few people have witnessed such a scene with their own eyes.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "679b946f90622daf9708da6d":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "Looking at this poster, you realize the sheer terror that the Minotaurs victims felt before they died.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "6759e61067c8eb5cd10352f1":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A simple poster of a girl. A little weathered in some spots, but still pleasing to the eye.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "675a20c83fb2de89670113b4":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A poster for the unreleased movie The Hunted. Something about this style reminds of... A sequel to another unreleased project?",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "6759e19a8367ee2b0c0f4b92":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A simple poster of a girl. Perfect for a rest area.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count": 15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "6759bb94b8913ff13e049669":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A rare What You Seek poster. Only the most hardcore USEC operators can get it.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "675a04c01474133a0d0bb212":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A poster advertising making money in the Arena. Sure, you can make money, but you can also die.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "675a0eacf905bde03d0f8253":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A regular poster for the unreleased movie Den of Wolves. Nothing special, just a wolf.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "679b94734e9ca6b3d80586a7":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "This poster embodies the nature of the Minotaur. Brutality, thirst for murder, and blood. Rivers of blood.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "675a191f67c8eb5cd1035305":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A poster for the action thriller Gunfight from the studio Battle Star. Years ago, cinemas used to have massive waiting lines for movie. Now all thats left are the posters. Its a nice reminder of the old days.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  15000
+                                                               }
+                                                           ]
+                                                       ],
+                          "664a5428d5e33a713b622379":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "The Tactical Wasteland Gladius sword, manufactured by APOK. Arena champion's prime melee weapon. Rumors are that this is the exact blade that the gladiator Voron used to fight with. Or at least it looks like one.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  95000
+                                                               }
+                                                           ]
+                                                       ],
+                          "5e2af55f86f7746d4159f07c":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "A large case for storing various hand grenades.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  100000
+                                                               }
+                                                           ]
+                                                       ]
+                      },
+    "loyal_level_items":  {
+                              "67600929bd0a0549d70993f6":  1,
+                              "59fb023c86f7746d0d4b423c":  1,
+                              "676008db84e242067d0dc4c9":  1,
+                              "664a55d84a90fc2c8a6305c9":  1,
+                              "67d3ed3271c17ff82e0a5b0b":  1,
+                              "59db794186f77448bc595262":  1,
+                              "5b6d9ce188a4501afc1b2b25":  1,
+                              "59fb016586f7746d0d4b423a":  1,
+                              "5857a8bc2459772bad15db29":  1,
+                              "59fb042886f7746c5005a7b2":  1,
+                              "567143bf4bdc2d1a0f8b4567":  1,
+                              "66bc98a01a47be227a5e956e":  1,
+                              "619cbf9e0a7c3a1a2731940a":  1,
+                              "5c093ca986f7740a1867ab12":  1,
+                              "590c60fc86f77412b13fddcf":  1,
+                              "5c127c4486f7745625356c13":  1,
+                              "5c0a840b86f7742ffa4f2482":  1,
+                              "5857a8b324597729ab0a0e7d":  1,
+                              "5d235bb686f77443f4331278":  1,
+                              "619cbf7d23893217ec30b689":  1,
+                              "60b0f6c058e0b0481a09ad11":  1,
+                              "5aafbcd986f7745e590fff23":  1,
+                              "5aafbde786f774389d0cbc0f":  1,
+                              "5b7c710788a4506dec015957":  1,
+                              "5732ee6a24597719ae0c0281":  1,
+                              "62a09d3bcf4a99369e262447":  1,
+                              "5c093e3486f77430cb02e593":  1,
+                              "6638a5474e92f038531e210e":  1,
+                              "64f6f4c5911bcdfe8b03b0dc":  1,
+                              "5783c43d2459774bbe137486":  1,
+                              "59fafd4b86f7745ca07e1232":  1,
+                              "5c093db286f7740a1b2617e3":  1,
+                              "544a11ac4bdc2d470e8b456a":  1,
+                              "665ee77ccf2d642e98220bca":  1,
+                              "664a5428d5e33a713b622379":  1,
+                              "5e2af55f86f7746d4159f07c":  1,
+                              "6759e7a44ff23436160d7ff5":  1,
+                              "675a046b8f547d6cae01922e":  1,
+                              "675a06b84ff23436160d802f":  1,
+                              "675a1a244ff23436160d8033":  1,
+                              "675a125caf26c56ee109072a":  1,
+                              "6841b1ff51bf8645f7067bca":  1,
+                              "679b944d597ba2ed120c3d3c":  1,
+                              "675a04fdb8913ff13e0496bb":  1,
+                              "6759e07e4ff23436160d7fed":  1,
+                              "675a0288c3102563bd01c9c3":  1,
+                              "6841b179322db20d190b4b99":  1,
+                              "675a202b6aaafea7210915fd":  1,
+                              "67f924b1b07831a6ef0ce317":  1,
+                              "675a0fbbb98bf391510bafcd":  1,
+                              "675a1e502eac6c76e104ea1e":  1,
+                              "6759e91d8367ee2b0c0f4b94":  1,
+                              "6759e8b1c3102563bd01c985":  1,
+                              "675a081c1474133a0d0bb214":  1,
+                              "6759e6c39422e1708e0e9b81":  1,
+                              "675a1af21474133a0d0bb216":  1,
+                              "67f924a9154a04c33b0a3c57":  1,
+                              "675a1c129422e1708e0e9baa":  1,
+                              "675a0d2d57dd12f0260c4a31":  1,
+                              "675a1f5c1474133a0d0bb218":  1,
+                              "675a213ff905bde03d0f8255":  1,
+                              "67f924adb45d94a2600a8cc8":  1,
+                              "679b9477708cfcb2060b9ade":  1,
+                              "679b946f90622daf9708da6d":  1,
+                              "6759e61067c8eb5cd10352f1":  1,
+                              "675a20c83fb2de89670113b4":  1,
+                              "6759e19a8367ee2b0c0f4b92":  1,
+                              "6759bb94b8913ff13e049669":  1,
+                              "675a04c01474133a0d0bb212":  1,
+                              "675a0eacf905bde03d0f8253":  1,
+                              "679b94734e9ca6b3d80586a7":  1,
+                              "675a191f67c8eb5cd1035305":  1
+                          }
+}
